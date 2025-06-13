@@ -30,4 +30,4 @@ export default async function getOrCreateDB(){
   }
 
   return databases
-}s
+}
